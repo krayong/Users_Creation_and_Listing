@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107740401250",
+    "firebase_url": "https://users-82e2e-default-rtdb.firebaseio.com",
+    "project_id": "users-82e2e",
+    "storage_bucket": "users-82e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107740401250:android:3c470ee653eee84f1acb3b",
+        "android_client_info": {
+          "package_name": "com.krayong.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107740401250-bsqdb8mgolh6u9100ledklqb5kebuq5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOaF8UAUIKZ1fTFi_0YurNAifaA7crYyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107740401250-bsqdb8mgolh6u9100ledklqb5kebuq5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
